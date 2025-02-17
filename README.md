@@ -19,7 +19,7 @@ To document the system properly, we followed a two-step process:
 1. **RASD (Requirement Analysis and Specification Document)** → Focused on defining the **problem**, system requirements, and user needs.  
 2. **DD (Design Document)** → Focused on the **technical design**, including system architecture, interaction models, and deployment strategies.  
 
-
+---
 ### **RASD - Requirements Analysis and Specification Document**  
 The **RASD document** is used to formally define the **functional and non-functional requirements** of the system. It describes the problem domain, user interactions, and system constraints.  
 
