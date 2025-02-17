@@ -13,11 +13,13 @@ The goal of *Students & Companies (S&C)* is to bridge the gap between students l
  -**Companies** to post internship offers, search for candidates, and manage applications.  
  -**University Coordinators** to approve internships, oversee the process, and handle complaints.  
 
+
 To document the system properly, we followed a two-step process:  
 
 1. **RASD (Requirement Analysis and Specification Document)** → Focused on defining the **problem**, system requirements, and user needs.  
 2. **DD (Design Document)** → Focused on the **technical design**, including system architecture, interaction models, and deployment strategies.  
 
+-- 
 
 ## **RASD - Requirements Analysis and Specification Document**  
 The **RASD** provides a **detailed analysis** of the system's **functional** and **non-functional requirements**. It is structured as follows:  
@@ -41,7 +43,8 @@ The **RASD** provides a **detailed analysis** of the system's **functional** and
 - A **formal specification of the system** using **Alloy modeling** to validate the consistency of the requirements.  
 - **Assertions and constraints** to verify the correctness of relationships and interactions between entities.  
 
----
+
+
 
 ## **DD - Design Document**  
 The **DD** translates the **requirements** defined in the RASD into a **technical design** that can be implemented.  
@@ -67,7 +70,7 @@ The **DD** translates the **requirements** defined in the RASD into a **technica
 
 
 
-## ✨ **Contributors**
+## **Contributors**
 - Xin Ye  
 - Matteo Civitillo  
 - Mattia Vicenzotto  
