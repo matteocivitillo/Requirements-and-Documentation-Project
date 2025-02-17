@@ -21,54 +21,44 @@ To document the system properly, we followed a two-step process:
 
 
 
+Ecco l'aggiornamento della **README.md**, includendo una sezione chiara e concisa sui contenuti del **RASD** e del **DD**, mantenendo la struttura richiesta.
 
-## **RASD - Requirements Analysis and Specification Document**  
-The **RASD** provides a **detailed analysis** of the system's **functional** and **non-functional requirements**. It is structured as follows:  
+---
 
-### **1. Introduction**  
-- Overview of the project’s **purpose** and **scope**.  
-- Definitions of **key terms, acronyms, and abbreviations**.  
-- Reference documents used in the analysis.  
+## **Project Documentation & Content**  
 
-### **2. Overall Description**  
-- **Scenarios and use cases** to illustrate user interactions.  
-- **Class and state diagrams** to define core system entities.  
-- Definition of **shared and world-controlled phenomena** (actions taken by users vs. system automation).  
+This repository contains two main documents:  
 
-### **3. Specific Requirements**  
-- **Detailed functional requirements**, structured as **use cases** and **UML diagrams**.  
-- **Performance constraints**, including response times and system availability.  
-- **Non-functional requirements**, such as security, maintainability, and scalability.  
+1. **Requirements Analysis and Specification Document (RASD)** – Defines **what the system should do** by analyzing the requirements and specifying system behaviors.  
+2. **Design Document (DD)** – Describes **how the system is built**, providing architectural details and design decisions.  
 
-### **4. Formal Analysis using Alloy**  
-- A **formal specification of the system** using **Alloy modeling** to validate the consistency of the requirements.  
-- **Assertions and constraints** to verify the correctness of relationships and interactions between entities.  
+Both documents follow a structured approach to ensure **clarity, completeness, and consistency**.
 
 
+### **RASD - Requirements Analysis and Specification Document**  
+The **RASD document** is used to formally define the **functional and non-functional requirements** of the system. It describes the problem domain, user interactions, and system constraints.  
 
+The document is structured as follows:  
 
+- **Introduction** – Defines the project’s **purpose, scope, and key references**.  
+- **Overall Description** – Provides **scenarios, user interactions, and a high-level system model**.  
+- **Specific Requirements** – Details **functional requirements, system attributes, and constraints**, using **use cases and UML diagrams**.  
+- **Formal Analysis Using Alloy** – Uses **Alloy modeling** to verify the **consistency and correctness** of system requirements.  
+- **Effort Spent** – Documents the **time contribution of each group member**.  
+- **References** – Lists **external sources** and **supporting materials**.  
 
-## **DD - Design Document**  
-The **DD** translates the **requirements** defined in the RASD into a **technical design** that can be implemented.  
+### **DD - Design Document**  
+The **DD document** translates the system requirements defined in the RASD into a **technical architecture** that can be implemented. It provides a structured representation of the **system’s components, interactions, and deployment**.  
 
-### **1. Introduction**  
-- Explanation of **design choices** and constraints.  
-- **Architectural overview** of the system.  
+The document is structured as follows:  
 
-### **2. High-Level Architecture**  
-- **System components** and their **interactions**.  
-- **UML diagrams** (Class diagrams, Sequence diagrams, State diagrams).  
-- **Data management models** (database structure, API endpoints).  
-
-### **3. Detailed Design**  
-- **Frontend & backend interaction models**.  
-- **External system integrations** (authentication, notifications, recommendation engine).  
-- **Deployment considerations** (cloud hosting, scalability strategies).  
-
-### **4. Security & Maintainability**  
-- **Security policies** to protect user data.  
-- **Modularity and maintainability principles** for long-term system support.  
-
+- **Introduction** – Describes the **purpose, scope, and key references**.  
+- **Architectural Design** – Defines the **system architecture**, including **component interactions, deployment strategy, and runtime behavior**.  
+- **User Interface Design** – Provides an **overview of the system’s UI structure**.  
+- **Requirements Traceability** – Maps the **requirements from the RASD** to **design elements** in the DD.  
+- **Implementation, Integration, and Test Plan** – Describes the **phases of system implementation and testing strategy**.  
+- **Effort Spent** – Documents the **time contribution of each group member**.  
+- **References** – Lists **external sources** and **supporting materials**.  
 
 
 
