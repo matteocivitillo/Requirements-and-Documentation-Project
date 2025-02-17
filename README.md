@@ -64,17 +64,6 @@ The **DD** translates the **requirements** defined in the RASD into a **technica
 - **Security policies** to protect user data.  
 - **Modularity and maintainability principles** for long-term system support.  
 
----
-
-## **The Importance of Alloy in This Project**  
-A key aspect of the **RASD** is the use of **Alloy** to perform a **formal analysis** of the system. Alloy is a **lightweight modeling language** used to verify the **logical correctness** of a system's specification.  
-
-### **Why Alloy?**  
-**Ensures requirement consistency** – avoids contradictions in system rules.  
-**Detects potential issues early** – before implementation begins.  
-**Provides a formal verification method** – through constraint checking and automated model analysis.  
-
-In this project, **Alloy was used to validate key system relationships** (e.g., student-internship matching, role permissions, and workflow automation). This formal verification step ensures that the **designed system operates as expected** and **eliminates ambiguities** in the requirement specification.  
 
 
 
