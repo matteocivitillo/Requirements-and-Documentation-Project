@@ -19,7 +19,8 @@ To document the system properly, we followed a two-step process:
 1. **RASD (Requirement Analysis and Specification Document)** → Focused on defining the **problem**, system requirements, and user needs.  
 2. **DD (Design Document)** → Focused on the **technical design**, including system architecture, interaction models, and deployment strategies.  
 
--- 
+
+
 
 ## **RASD - Requirements Analysis and Specification Document**  
 The **RASD** provides a **detailed analysis** of the system's **functional** and **non-functional requirements**. It is structured as follows:  
@@ -42,6 +43,7 @@ The **RASD** provides a **detailed analysis** of the system's **functional** and
 ### **4. Formal Analysis using Alloy**  
 - A **formal specification of the system** using **Alloy modeling** to validate the consistency of the requirements.  
 - **Assertions and constraints** to verify the correctness of relationships and interactions between entities.  
+
 
 
 
