@@ -20,21 +20,6 @@ To document the system properly, we followed a two-step process:
 2. **DD (Design Document)** → Focused on the **technical design**, including system architecture, interaction models, and deployment strategies.  
 
 
-
-Ecco l'aggiornamento della **README.md**, includendo una sezione chiara e concisa sui contenuti del **RASD** e del **DD**, mantenendo la struttura richiesta.
-
----
-
-## **Project Documentation & Content**  
-
-This repository contains two main documents:  
-
-1. **Requirements Analysis and Specification Document (RASD)** – Defines **what the system should do** by analyzing the requirements and specifying system behaviors.  
-2. **Design Document (DD)** – Describes **how the system is built**, providing architectural details and design decisions.  
-
-Both documents follow a structured approach to ensure **clarity, completeness, and consistency**.
-
-
 ### **RASD - Requirements Analysis and Specification Document**  
 The **RASD document** is used to formally define the **functional and non-functional requirements** of the system. It describes the problem domain, user interactions, and system constraints.  
 
